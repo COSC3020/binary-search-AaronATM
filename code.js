@@ -27,10 +27,3 @@ function binarySearch(list, element) {
 
     return -1;
 }
-
-4
-4
-3
-4
-4
-3
